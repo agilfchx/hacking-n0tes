@@ -6,3 +6,7 @@ sebuah catatan hasil belajar mengenai Cyber Security, di buatnya catatan ini kar
 #### Note
 ##### Forget
 Repeat
+
+
+
+*created using **Obsidian***

@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
   "right": {
     "id": "974ee314abccdfdf",
@@ -130,15 +130,15 @@
   },
   "active": "001d9b23a58d561b",
   "lastOpenFiles": [
-    "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
-    "Learning Notes/Mobile Pentest/Install ARM android apps on genymotion.md",
+    "Pasted image 20220823130932.png.md",
     "Learning Notes/Mobile Pentest/Integrated Burp Suite.md",
+    "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
+    "src/images/Pasted image 20220823130932.png",
+    "Learning Notes/Mobile Pentest/Install ARM android apps on genymotion.md",
     "Learning Notes/Mobile Pentest/Drozer.md",
     "Learning Notes/Mobile Pentest/Frida.md",
     "Learning Notes/Mobile Pentest/SSL Pinning.md",
     "README.md",
-    "Web Pentest Checklist.md",
-    "Mobile Pentest Checklist.md",
-    "Tools/etc/gowitness.md"
+    "Web Pentest Checklist.md"
   ]
 }

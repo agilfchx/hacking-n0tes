@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning Notes/Web Pentest/SQL Injection.md",
+            "file": "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Notes/Web Pentest/SQL Injection.md",
+                "file": "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning Notes/Web Pentest/SQL Injection.md",
+                "file": "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning Notes/Web Pentest/SQL Injection.md"
+                "file": "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d7dc568ee89ccff",
+  "active": "001d9b23a58d561b",
   "lastOpenFiles": [
+    "Learning Notes/Mobile Pentest/Integrated Burp Suite.md",
+    "Learning Notes/Web Pentest/SQL Injection.md",
     "Learning Notes/Mobile Pentest/Drozer.md",
     "Learning Notes/Mobile Pentest/SSL Pinning.md",
-    "Learning Notes/Mobile Pentest/Integrated Burp Suite.md",
     "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
     "Learning Notes/Mobile Pentest/Frida.md",
     "Learning Notes/HAPI/2. Preparing Labs.md",
     "Learning Notes/HAPI/1. Preparing Tools.md",
     "CTF/Learning/3. Privileges Escalation.md",
-    "CTF/Learning/2. Stable Shell.md",
-    "CTF/Learning/1. Reverse Shell.md"
+    "CTF/Learning/2. Stable Shell.md"
   ]
 }

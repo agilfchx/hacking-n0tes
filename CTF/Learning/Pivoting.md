@@ -29,7 +29,7 @@ $ passwd johndoe
 jika ingin user tersebut dibuat setara dengan root bisa ditambahkan di `/etc/sudoers` nya. [Bisa baca disini](https://linuxize.com/post/how-to-add-user-to-sudoers-in-ubuntu/)
 
 - Tunneling via **sshuttle**
-3. Setelah kita membuat user pada mesin kita ke Attacker Box/mesin kita untuk menjalankan perintah sshuttle
+3. Setelah kita membuat user pada mesin kita ke Attacker Box/mesin kita untuk menjalankan perintah sshuttle dan biarkan berjalan 
 ```bash
 $ sudo sshuttle -r johndoe@<ip machine> <ip subnet>/24
 ```
@@ -38,7 +38,7 @@ untuk ip subnet ini berasal dari ip mesin yang akan kita pivoting, bisa dilihat 
 > karena kita menggunakan sshuttle, jadi kita bisa mengakses langsung IP machine yang telah kita pivoting. Misal IP Machine yang kita pivoting terdapat services HTTP pada port 8080 maka kita bisa langsung akses misal 192.168.1.106:8080 pada browser
 > 
 > catatan :
-> jika kalian melakukan **nmap** hasilnya pasti setiap port kebuka jadi jika mesin yang kalian dapet terdapat **nmap** (bisa check dengan `which nmap`) maka lakukan enumeration didalam mesinnya saja
+> jika kalian melakukan **nmap** hasilnya pasti setiap port kebuka jadi jika mesin yang kalian dapet terdapat **nmap** (bisa check dengan `which nmap`) maka lakukan enumeration didalam mesinnya saja atau bisa menggunakan proxychains pada attackerbox, tapi pada kasus nyata mungkin saja mesinnya bukan linux melainkan windows oleh maka itu saya harus mempelajari lebih dalam lagi
 
 - Port forwading via **chisel**
 Lalu bagaimana kita ingin melakukan reverse shell atau yang lainnya? tentu saja dengan Port Forwarding yang dimana ini akan membuat port khusus yang saling menghubungkan antara **Target Machine <-> Attacker Box** 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CTF/Learning/Pivoting.md",
+            "file": "Learning Notes/Web Pentest/SQL Injection.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF/Learning/Pivoting.md",
+                "file": "Learning Notes/Web Pentest/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF/Learning/Pivoting.md",
+                "file": "Learning Notes/Web Pentest/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/Learning/Pivoting.md"
+                "file": "Learning Notes/Web Pentest/SQL Injection.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "001d9b23a58d561b",
   "lastOpenFiles": [
+    "CTF/Learning/Pivoting.md",
     "Learning Notes/Mobile Pentest/Integrated Burp Suite.md",
     "Learning Notes/Mobile Pentest/Genymotion ARM Translation.md",
     "Learning Notes/Web Pentest/SQL Injection.md",
@@ -138,7 +139,6 @@
     "Learning Notes/Mobile Pentest/Frida.md",
     "Learning Notes/HAPI/2. Preparing Labs.md",
     "Learning Notes/HAPI/1. Preparing Tools.md",
-    "CTF/Learning/3. Privileges Escalation.md",
-    "CTF/Learning/2. Stable Shell.md"
+    "CTF/Learning/3. Privileges Escalation.md"
   ]
 }

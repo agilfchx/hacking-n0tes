@@ -38,5 +38,7 @@ $ ffuf -u http://FUZZ.mydomain.com -c -w /usr/share/seclists/Discovery/DNS/subdo
 - `-mc 200,301,403` : mencocokkan status code seperti yang diinginkan
 - `-fc 403,404,405` : melakukan filtering status code agar tidak ditampilkan
 - `-fs 12312` : melakukan filtering response size agar tidak ditampilkan
-- `-o out` : output dari ffuf
+- `-of md -o ffuf.md` : save output ke markdown dgn nama ffuf.md
 - `-ic` : ignore comments (seperti di wordlists *directory-list-2.3-medium.txt*)
+- `-c` : colorize output
+- `-v` : print full URL and redirect location
